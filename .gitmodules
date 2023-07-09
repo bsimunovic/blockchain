@@ -1,0 +1,3 @@
+[submodule "blockchain_front"]
+	path = blockchain_front
+	url = https://github.com/bsimunovic/blockchain_front
